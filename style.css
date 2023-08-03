@@ -1,14 +1,26 @@
-h2{
+
+#header{
     color: teal;
     text-align: center;
+    background-color: gray;
+    background-image: url(images/burger.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding: 100px;
 }
 #food{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 .Lorem{
-    background-color: aqua;
+    background-color: aqua; 
+    border: 20px;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: rgb(255, 0, 0);
+    border-radius: 20px;
     text-align: center;
+    
 }
 h3{
 
