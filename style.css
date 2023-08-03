@@ -1,13 +1,17 @@
 h2{
     color: teal;
+    text-align: center;
 }
-food{
+#food{
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
-Lorem{
+.Lorem{
     background-color: aqua;
     text-align: center;
 }
 h3{
-    text-decoration: dashed;
+
+    text-align: center; 
+    text-decoration: dotted; text-decoration-line: underline;
 }
